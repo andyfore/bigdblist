@@ -2,7 +2,7 @@
 
 # Created by 2014-07-08
 # Script name: create_bigdb_list.sh
-# Original Author: Andrew Fore, afore@web.com
+# Original Author: Andrew Fore, andy.fore@arfore.com
 # Purpose: The file bigdblist.sh is a simple bash script that takes the MySQL
 #          data directory as an argument and returns a list of the large databases,
 #          as well as the mysql database, in a space-delimited single line list suitable
